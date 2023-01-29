@@ -1,4 +1,4 @@
-# Atelier3Remote
-Repos GitHub remote-repos
-New line from GitHub WebGui
-new line from the local
+Description du projet:
+premier projet de la formation "Git mettre "
+Modification du Readme.md sous tout le projet
+Fixed ERREUR
